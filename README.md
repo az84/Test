@@ -8,6 +8,7 @@ Website link: https://lit-cove-26179.herokuapp.com/stats
 
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
+<img width="556" alt="Screen Shot 2019-06-19 at 5 26 59 PM" src="ScreenShot.PNG">
 
 When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
 
