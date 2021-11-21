@@ -13,7 +13,11 @@ app.use(express.json());
 app.use(express.static("public"));
 
 
+<<<<<<< HEAD
 mongoose.connect(process.env.MONGODB_URI ||  "mongodb://localhost/Workout", 
+=======
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/Workout", 
+>>>>>>> 8376519174faf1534e0f28a65e477813b9609500
   { 
     useNewUrlParser: true,
     useUnifiedTopology: true,
