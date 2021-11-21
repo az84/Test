@@ -1,6 +1,6 @@
 # Workout Tracker
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+A fitness app that allows the user to view, create, and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout. The user is able to track the name, type, weight, sets, reps and duration of each exercise. Cardiovascular exercises show the distance traveled in miles.
 
 ## User Story
 
@@ -19,3 +19,9 @@ The user should be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
+
+## Contact
+- [Github](https://github.com/az84)
+- [LinkedIn](https://www.linkedin.com/in/alina-z-092703199/)
+
+
